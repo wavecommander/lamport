@@ -39,6 +39,7 @@ User permission levels:
 		- Address
 		- Institution/Organizational affiliation
 		- Organizational title or position
+		- Profile image URL/src
 		- URL (personal page, LinkedIn)
 		- Other, descriptive
 	- Publicly viewable/Privacy - Integer
