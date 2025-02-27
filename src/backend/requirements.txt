@@ -1,0 +1,5 @@
+uvicorn
+starlette
+pydantic
+"fastapi[standard]"
+Jinja2

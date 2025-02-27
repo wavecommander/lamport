@@ -77,7 +77,7 @@ User permission levels:
 - Decoupled team membership and identity from individual contact methods and pieces of personal info
 - Fine grained public/private toggling for all pieces of personal info for each user to decide and update at any time
 - Able to add any number of additional or alternative emails/phone numbers without technical limitation
-- 
+- Offer flexibility for additional desired field types in the future
 
 #### Future Extensions
 - Data backups, reliability concerns
@@ -86,6 +86,7 @@ User permission levels:
 - Email system
 	- Account creation invitations/confirmations
 	- Authentication, TOTP, password resets
+- Profile images, file hosting, file size/compression and bandwidth considerations
 
 ### Backend
 - PostgreSQL DB
