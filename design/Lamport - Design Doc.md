@@ -28,7 +28,7 @@ User permission levels:
 	- Preferred addressable name
 	- Preferred system username
 	- Preferred pronouns
-	- Publicly viewable (?) boolean
+	- Publicly viewable integer
 	- Datetime created
 	- Datetime updated
 - Personal info records

@@ -1,0 +1,6 @@
+uvicorn
+starlette
+pydantic[email,timezone]
+"fastapi[standard]"
+Jinja2
+"psycopg[binary]"
